@@ -1,9 +1,9 @@
 # Bankist
 ## Description
-- **Description**: bank simulator;
-	- A program to view and manage bank transactions. 
-	- Ability to add transactions, receive loans, and make deposits.
-**Programming languages**: HTML, CSS, JS
+- bank simulator;
+- A program to view and manage bank transactions. 
+- Ability to add transactions, receive loans, and make deposits.
+- **Programming languages**: HTML, CSS, JS
 ## Preview
 
 
