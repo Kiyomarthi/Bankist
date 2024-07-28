@@ -17,9 +17,6 @@
 	cd Bankist
 	```
 4. **open the index.html**
-	```
-	npm i
-	```
 5. **for sign in**
 	1. **account 1**
 		- user name : js
