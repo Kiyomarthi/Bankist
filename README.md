@@ -7,6 +7,12 @@
 ## Preview
 
 
+
+https://github.com/user-attachments/assets/c658a0b0-2a5a-4875-9e2b-48688a75c8f2
+
+![bankist-Kiumarsi-js](https://github.com/user-attachments/assets/bf1418e2-146f-4ff3-be24-d616f901ef49)
+
+
 ## how to use
 1. **Clone the repository**
 	```
